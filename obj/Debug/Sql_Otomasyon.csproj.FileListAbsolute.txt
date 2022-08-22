@@ -1,0 +1,10 @@
+C:\Users\Halim\Desktop\sql\Sql_Otomasyon\bin\Debug\Sql_Otomasyon.exe.config
+C:\Users\Halim\Desktop\sql\Sql_Otomasyon\bin\Debug\Sql_Otomasyon.exe
+C:\Users\Halim\Desktop\sql\Sql_Otomasyon\bin\Debug\Sql_Otomasyon.pdb
+C:\Users\Halim\Desktop\sql\Sql_Otomasyon\obj\Debug\Sql_Otomasyon.csproj.AssemblyReference.cache
+C:\Users\Halim\Desktop\sql\Sql_Otomasyon\obj\Debug\Sql_Otomasyon.Form1.resources
+C:\Users\Halim\Desktop\sql\Sql_Otomasyon\obj\Debug\Sql_Otomasyon.Properties.Resources.resources
+C:\Users\Halim\Desktop\sql\Sql_Otomasyon\obj\Debug\Sql_Otomasyon.csproj.GenerateResource.cache
+C:\Users\Halim\Desktop\sql\Sql_Otomasyon\obj\Debug\Sql_Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Halim\Desktop\sql\Sql_Otomasyon\obj\Debug\Sql_Otomasyon.exe
+C:\Users\Halim\Desktop\sql\Sql_Otomasyon\obj\Debug\Sql_Otomasyon.pdb
